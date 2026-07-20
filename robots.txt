@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ruhjtz.cuankita.site/sitemap.xml
